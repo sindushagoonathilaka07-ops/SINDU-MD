@@ -1,0 +1,10 @@
+SINDU-MD/
+ ├─ index.js
+ ├─ package.json
+ ├─ config.js
+ ├─ session.json  (Bot run කරද්දී auto generate වෙයි)
+ ├─ modules/
+ │    ├─ download.js
+ │    └─ utils.js
+ ├─ LICENSE
+ └─ README.md
